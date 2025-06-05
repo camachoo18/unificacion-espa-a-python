@@ -11,7 +11,7 @@ Filtra un archivo Excel para quedarse únicamente con las filas de la localidad 
 
 **¿Qué hace?**
 - Carga un archivo Excel específico.
-- Filtra las filas donde la columna `localidad` es exactamente "Fuenlabrada" (ignorando mayúsculas y espacios).
+- Filtra las filas donde la columna `localidad` es exactamente "Fuenlabrada", aunque puede ser cualquiera, solo hay que definir que localidad y provincia (ignorando mayúsculas y espacios).
 - Guarda el resultado filtrado en otro archivo Excel.
 - Muestra un mensaje indicando la ubicación del archivo generado.
 
